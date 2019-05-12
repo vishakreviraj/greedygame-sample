@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/greedygame-sample/precache-manifest.cdab8dc88e99d34ac75bf546869233cc.js"
+  "/greedygame-sample/precache-manifest.5803305d00b2d0c0eebb18f4aeb8657c.js"
 );
 
 self.addEventListener('message', (event) => {

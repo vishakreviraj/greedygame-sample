@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/greedygame-sample/static/css/main.b351f894.chunk.css",
-    "main.js": "/greedygame-sample/static/js/main.35483871.chunk.js",
-    "main.js.map": "/greedygame-sample/static/js/main.35483871.chunk.js.map",
+    "main.js": "/greedygame-sample/static/js/main.e1f8efd6.chunk.js",
+    "main.js.map": "/greedygame-sample/static/js/main.e1f8efd6.chunk.js.map",
     "runtime~main.js": "/greedygame-sample/static/js/runtime~main.971abd49.js",
     "runtime~main.js.map": "/greedygame-sample/static/js/runtime~main.971abd49.js.map",
     "static/js/2.cb21a235.chunk.js": "/greedygame-sample/static/js/2.cb21a235.chunk.js",
     "static/js/2.cb21a235.chunk.js.map": "/greedygame-sample/static/js/2.cb21a235.chunk.js.map",
     "index.html": "/greedygame-sample/index.html",
-    "precache-manifest.cdab8dc88e99d34ac75bf546869233cc.js": "/greedygame-sample/precache-manifest.cdab8dc88e99d34ac75bf546869233cc.js",
+    "precache-manifest.5803305d00b2d0c0eebb18f4aeb8657c.js": "/greedygame-sample/precache-manifest.5803305d00b2d0c0eebb18f4aeb8657c.js",
     "service-worker.js": "/greedygame-sample/service-worker.js",
     "static/css/main.b351f894.chunk.css.map": "/greedygame-sample/static/css/main.b351f894.chunk.css.map"
   }
