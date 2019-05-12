@@ -13,7 +13,7 @@ class App extends React.Component {
       endDate: new Date(),
       data : [],
       tableData : [],
-      uniqueGames: [],
+      uniqueGames: ['Select Game'],
       chartData : [],
       isLoading : true,
     };
