@@ -132,13 +132,12 @@ export default class LineChart extends React.Component {
                     title="eCPM Trendline"
                     action={
                         <div>
-                            {games.length===0? null :
                                                         <Button
                                                         aria-owns={anchorEl ? 'simple-menu' : undefined}
                                                         aria-haspopup="true"
                                                         onClick={this.handleClick}
                                                     >
-                                                        {games[this.state.selectedIndex] }
+                                                        {games[this.state.selectedIndex] 
                             </Button> }
 
 
